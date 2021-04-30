@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/test_rockstone/static/css/main.d1da446d.chunk.css",
+    "main.js": "/test_rockstone/static/js/main.d40f400d.chunk.js",
+    "main.js.map": "/test_rockstone/static/js/main.d40f400d.chunk.js.map",
+    "runtime-main.js": "/test_rockstone/static/js/runtime-main.f05456f4.js",
+    "runtime-main.js.map": "/test_rockstone/static/js/runtime-main.f05456f4.js.map",
+    "static/js/2.967dd553.chunk.js": "/test_rockstone/static/js/2.967dd553.chunk.js",
+    "static/js/2.967dd553.chunk.js.map": "/test_rockstone/static/js/2.967dd553.chunk.js.map",
+    "index.html": "/test_rockstone/index.html",
+    "static/css/main.d1da446d.chunk.css.map": "/test_rockstone/static/css/main.d1da446d.chunk.css.map",
+    "static/js/2.967dd553.chunk.js.LICENSE.txt": "/test_rockstone/static/js/2.967dd553.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f05456f4.js",
+    "static/js/2.967dd553.chunk.js",
+    "static/css/main.d1da446d.chunk.css",
+    "static/js/main.d40f400d.chunk.js"
+  ]
+}
