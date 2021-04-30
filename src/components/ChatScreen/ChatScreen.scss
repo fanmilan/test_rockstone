@@ -47,6 +47,7 @@
   letter-spacing: 2px;
   font-size:18px;
   overflow-wrap: break-word;
+  white-space: pre-wrap;
 
   &__typing{
     animation: dots 1.5s steps(5, end) infinite;
